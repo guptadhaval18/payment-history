@@ -9,6 +9,7 @@ const App = () => {
       <Header />
       <Summary />
       <Table />
+      <a href='https://github.com/guptadhaval18/payment-history'>Github Repo</a>
     </>
   )
 }
